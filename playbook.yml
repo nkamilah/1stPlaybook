@@ -12,6 +12,6 @@
      state: started
   - name: Website index.html created
     win_copy:
-     content: "Hello World"
+     content: "Hello World!"
      dest: C:\Inetpub\wwwroot\index.html
 ...
